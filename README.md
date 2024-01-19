@@ -16,4 +16,4 @@ We also whould make the search-button work.
 
 ## View it live
 
-https://dapper-crepe-8d1146.netlify.app
+https://frida-caro-weahter-app.netlify.app
