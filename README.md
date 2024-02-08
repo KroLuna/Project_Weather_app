@@ -16,4 +16,4 @@ We also whould make the search-button work.
 
 ## View it live
 
-https://frida-caro-weahter-app.netlify.app
+https://fridacaro-weahter-app.netlify.app
